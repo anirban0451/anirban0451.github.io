@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Anirban Chakraborty"
+  site-url: "https://anirban0451.github.io"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: personal.qmd
+        text: My space
+      - icon: github
+        href: https://github.com/anirban0451
+  page-footer:
+    center: "© 2026 Anirban Chakraborty · Built with Quarto. Last updated on October 24, 2026."
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    page-layout: article
+    grid:
+      sidebar-width: 0px
+      margin-width: 0px
+      body-width: 1400px

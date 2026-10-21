@@ -1,0 +1,50 @@
+---
+title: "Research"
+---
+
+::: {.proj}
+#### Biomarker discovery in omics
+Kernel machine regression frameworks (CBKMR, RKMR) and trajectory-aware marker selection (FusedFCR).
+
+#### Multi-sample spatial omics
+Replicate-aware dimension reduction across tissue slices (MSGPCA).
+
+#### Scalable spatial statistics
+Vecchia approximations, Bayesian transport maps, and nonlinear filtering for large spatial data.
+:::
+
+## Software
+- **R:** [CBKMR](https://github.com/anirban0451/CBKMR) · [FusedFCR](https://github.com/anirban0451/fusedFCR) · [CHVfilter](https://github.com/katzfuss-group/CHVfilter)
+- **Python:** [Parametric shrinkage transport map](https://github.com/katzfuss-group/batram/tree/ShrinkTM)
+
+## Publications
+
+::: {.pub-note}
+\* denotes equal contribution
+:::
+```{r}
+#| echo: false
+#| results: asis
+library(RefManageR)
+b <- ReadBib("references.bib", check = FALSE); d <- as.data.frame(b)
+for (f in c("journal","booktitle","doi","url","date","year","equal")) if (is.null(d[[f]])) d[[f]] <- NA
+d$year <- ifelse(is.na(d$year), substr(d$date, 1, 4), d$year)
+d <- d[!is.na(d$year), ]; d <- d[order(-as.integer(d$year)), ]
+d$au <- mapply(function(a, e) {
+  a <- trimws(strsplit(gsub("\\s+", " ", a), " and ")[[1]])
+  if (!is.na(e)) { k <- as.integer(strsplit(e, ",")[[1]]); a[k] <- paste0(a[k], "\\*") }
+  gsub("Anirban Chakraborty", "**Anirban Chakraborty**", paste(a, collapse = ", "))
+}, d$author, d$equal, USE.NAMES = FALSE)
+d$ven <- ifelse(is.na(d$journal), d$booktitle, d$journal)
+d$ttl <- sub("\\.$", "", gsub("[{}]", "", d$title))
+d$lnk <- ifelse(!is.na(d$doi), paste0(" [[Link]](https://doi.org/)"),
+         ifelse(!is.na(d$url), paste0(" ", d$url, ""), ""))
+n <- nrow(d); i <- 0
+for (y in unique(d$year)) {
+  cat("\n### ", y, "\n\n", sep = "")
+  for (r in which(d$year == y)) {
+    cat(sprintf("\\[%d\\] %s. %s. *%s*, %s.%s\n\n", n - i, d$au[r], d$ttl[r], d$ven[r], y, d$lnk[r]))
+    i <- i + 1
+  }
+}
+```

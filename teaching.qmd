@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+## Instructor of record
+**STAT 302: Statistical Methods** — Texas A&M University, [Semester Year]  
+In-person section, 43 students.
+
+## Teaching assistant
+- **STAT 641** — Texas A&M University, [Semester Year]  
+  Moved homework submission and exam grading to eCampus during COVID-19.
+- **STAT 638** — Texas A&M University, [Semester Year]  
+  Managed course materials and grading on Canvas.
+- Helped write midterm exams for multi-section courses (200+ students).
+
+## Teaching interests
+[e.g., introductory and applied statistics, Bayesian statistics, statistical computing, statistical methods for genomics]

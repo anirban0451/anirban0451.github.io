@@ -1,0 +1,36 @@
+---
+title: "Anirban Chakraborty"
+about:
+  template: trestles
+  image: images/profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:chakraan@musc.edu
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=D_oALg8AAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/anirban0451
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/CV.pdf
+---
+
+I am a postdoctoral scholar in the Department of Public Health Sciences at the Medical University of South Carolina, working with [Dr. Souvik Seal](https://sealx017.github.io/). I develop statistical methods for single-cell and spatial omics, with a focus on biomarker discovery and replicate-aware multi-sample analysis, building on a background in scalable Bayesian methods for spatial data.
+
+I received my Ph.D. in Statistics from Texas A&M University (2024), advised by [Dr. Matthias Katzfuss](https://sites.google.com/view/katzfuss/home).
+
+### Research interests
+- Biomarker discovery in single-cell and spatial omics
+- Multi-sample spatial omics and spatially aware dimension reduction
+- Scalable Gaussian processes and Bayesian computation
+
+### News
+::: {.news}
+- **2026** — CBKMR resubmitted to *Annals of Applied Statistics*.
+- **2026** — FusedFCR preprint posted on bioRxiv.
+:::
+
+[For older announcements, please see [here](news-archive.qmd).]{.news-more}

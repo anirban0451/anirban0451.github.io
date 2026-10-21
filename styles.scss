@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+$primary: #1f4e79;
+$font-size-base: 0.95rem;
+$line-height-base: 1.5;
+$headings-margin-bottom: .4rem;
+
+/*-- scss:rules --*/
+.navbar { font-weight: 500; }
+.nav-footer .nav-footer-left, .nav-footer .nav-footer-right { flex: 0 0 0 !important; }
+.nav-footer .nav-footer-center { flex: 1 1 auto !important; white-space: nowrap; text-align: center; }
+@media (max-width: 600px) { .nav-footer .nav-footer-center { white-space: normal; } }
+main p, main li { text-align: justify; hyphens: auto; }
+main ul { margin-bottom: .6rem; }
+main li { margin-bottom: .15rem; }
+h2, h3 { margin-top: 1.4rem !important; }
+.csl-entry { margin-bottom: .6em; }
+.proj h4 { margin-top: 1em; color: $primary; }
+.news li { margin-bottom: .2em; }
+.news-more { font-size: .95em; font-style: italic; }
+.about-entity { padding-top: 0 !important; }
+main .pub-note p { font-size: 1rem; font-style: italic; color: #6c757d; margin: -.6rem 0 .5rem; text-align: left; }
+.quarto-about-trestles .about-links::after {
+  content: "Office\A HO313D, Hollings Cancer Center,\A Department of Public Health Sciences,\A Medical University of South Carolina,\A 135 Canon Street, Charleston, SC, 29425";
+  display: block; white-space: pre-line; text-align: center;
+  font-size: .9rem; line-height: 1.4; color: #6c757d; margin-top: .8rem;
+}

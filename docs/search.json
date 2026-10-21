@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "STAT 302: Statistical Methods — Texas A&M University, [Semester Year]\nIn-person section, 43 students."
+  },
+  {
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Teaching",
+    "section": "",
+    "text": "STAT 302: Statistical Methods — Texas A&M University, [Semester Year]\nIn-person section, 43 students."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\n\nSTAT 641 — Texas A&M University, [Semester Year]\nMoved homework submission and exam grading to eCampus during COVID-19.\nSTAT 638 — Texas A&M University, [Semester Year]\nManaged course materials and grading on Canvas.\nHelped write midterm exams for multi-section courses (200+ students)."
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching interests",
+    "text": "Teaching interests\n[e.g., introductory and applied statistics, Bayesian statistics, statistical computing, statistical methods for genomics]"
+  },
+  {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Anirban Chakraborty",
+    "section": "",
+    "text": "Outside research, I enjoy several extra curricular activities, including hiking, music composition. While many of these activities are recreational in nature, they help me keep motivated and evolve myself.\n\nHiking\nI particularly enjoy high-altitude, multi-day treks. Because such trips require early planning, finding fellow trekkers, and careful assessment of risks, they have shaped how I approach planning in research as well. They have also taught me persistence when the path forward is difficult.\n\n\n\n\n\n\nIce Lake Hike, Silverton, Colorado\n\n\n\n\n\n\n\nMesquite Flat Sand Dunes, Death Valley, California\n\n\n\n\n\n\n\n\n\nBrahmatal Hike, India\n\n\n\n\n\n\n\nPaso Rosario, Cordillera Huayhuash Circuit Trek, Perú\n\n\n\n\n\n\n\nMusic\nI have a keen interest in various kinds of instrumental music. As a guitar enthusiast with basic instrument experience, I have tried to explore possibilities of composing small pieces of music.\nAttached is a copy of small music that I composed a while ago. It layers two guitar tracks that I recorded myself, with a few effects added in Cubase, a digital audio workstation."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anirban Chakraborty",
+    "section": "",
+    "text": "I am a postdoctoral scholar in the Department of Public Health Sciences at the Medical University of South Carolina, working with Dr. Souvik Seal. I develop statistical methods for single-cell and spatial omics, with a focus on biomarker discovery and replicate-aware multi-sample analysis, building on a background in scalable Bayesian methods for spatial data.\nI received my Ph.D. in Statistics from Texas A&M University (2024), advised by Dr. Matthias Katzfuss.\n\nResearch interests\n\nBiomarker discovery in single-cell and spatial omics\nMulti-sample spatial omics and spatially aware dimension reduction\nScalable Gaussian processes and Bayesian computation\n\n\n\nNews\n\n\n2026 — CBKMR resubmitted to Annals of Applied Statistics.\n2026 — FusedFCR preprint posted on bioRxiv.\n\n\nFor older announcements, please see here."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "news-archive.html",
+    "href": "news-archive.html",
+    "title": "Archived News",
+    "section": "",
+    "text": "← Back to Home\n\n\n2025\n\nJul 2025 — Started as a postdoctoral scholar at MUSC with Dr. Souvik Seal.\n2025 — Paper accepted at ICML 2025.\n\n\n\n2024\n\nAug 2024 — Joined MD Anderson Cancer Center as a postdoctoral scholar.\nJun 2024 — Completed my Ph.D. in Statistics at Texas A&M University."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Kernel machine regression frameworks (CBKMR, RKMR) and trajectory-aware marker selection (FusedFCR).\n\n\n\nReplicate-aware dimension reduction across tissue slices (MSGPCA).\n\n\n\nVecchia approximations, Bayesian transport maps, and nonlinear filtering for large spatial data."
+  },
+  {
+    "objectID": "research.html#software",
+    "href": "research.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\n\nR: CBKMR · FusedFCR · CHVfilter\nPython: Parametric shrinkage transport map"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\n* denotes equal contribution\n\n\n2026\n[12] Anirban Chakraborty, Brian Neelon, Andrew Lawson, Peggi Angel, Dongjun Chung, Souvik Seal. MSGPCA: Multi-Slice Graph PCA for replicate-aware Spatial Omics analysis. bioRxiv, 2026.\n[11] Souvik Seal, Anirban Chakraborty, Chloe Mattila, Mark Rubinstein, Peggi Angel, Debashis Ghosh, Dongjun Chung, Brian Neelon. RKMR: A Rapid Kernel Machine Regression Framework for Optimal Marker Detection in Spatial Omics Data. Biorxiv: the Preprint Server for Biology, 2026.\n[10] Anirban Chakraborty, Chloe Mattila, Debashis Ghosh, Brian Neelon, Souvik Seal. CBKMR: A Copula-based Bayesian Kernel Machine Regression Framework for Optimal Marker Detection in Omics Data. Resubmitted to Annals of Applied Statistics, 2026.\n[9] Chloe Mattila*, Anirban Chakraborty*, Peggi Angel, Sha Cao, Kalyani Sonnawane, Elizabeth Hill, Dongjun Chung, Brian Neelon, Souvik Seal. FusedFCR: A Fused Forward Continuation-Ratio model for marker selection along cell-fate trajectories. bioRxiv, 2026.\n[8] Abhisek Chakraborty, Abhishek Mandal, Anirban Chakraborty. Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains. Forty-third International Conference on Machine Learning, 2026.\n[7] Anirban Chakraborty*, Abhisek Chakraborty*. Efficient and Scalable Tobit Gaussian Process Regression for Modeling Air Quality Data. ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.\n[6] Abhisek Chakraborty, Anirban Chakraborty. Hierarchical Transit Compartment Model to Describe Absorption Delay in Orally Administered Drugs in Heterogeneous Populations. Therapeutic Innovation & Regulatory Science, 2026.\n\n\n2025\n[5] Abhisek Chakraborty, Anirban Chakraborty. Meta-Learning with Adaptive Borrowing for High Dimensional Moment Condition Model. 2025 IEEE International Conference on Big Data (BigData), 2025.\n[4] Anirban Chakraborty, Matthias Katzfuss. Learning non-Gaussian spatial distributions via Bayesian transport maps with parametric shrinkage. Journal of Agricultural, Biological and Environmental Statistics, 2025.\n\n\n2024\n[3] Anirban Chakraborty*, Abhisek Chakraborty*. Scalable model-based gaussian process clustering. ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.\n\n\n2022\n[2] Anirban Chakraborty, Matthias Katzfuss, Joseph Guinness. Ordered conditional approximation of Potts models. Spatial Statistics, 2022.\n[1] Anirban Chakraborty, Matthias Katzfuss. High-dimensional nonlinear spatio-temporal filtering by compressing hierarchical sparse Cholesky factors. Journal of Data Science, 2022."
+  }
+]
