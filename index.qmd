@@ -13,9 +13,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/anirban0451
-    - icon: file-earmark-pdf
-      text: CV
-      href: files/CV.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/anirban-chakraborty-0451/
 ---
 
 I am a postdoctoral scholar in the Department of Public Health Sciences at the Medical University of South Carolina, working with [Dr. Souvik Seal](https://sealx017.github.io/). I develop statistical methods for single-cell and spatial omics, with a focus on biomarker discovery and replicate-aware multi-sample analysis, building on a background in scalable Bayesian methods for spatial data.
