@@ -19,7 +19,7 @@ website:
       - icon: github
         href: https://github.com/anirban0451
   page-footer:
-    center: "© 2026 Anirban Chakraborty · Built with Quarto. Last updated on October 24, 2026."
+    center: "© 2026 Anirban Chakraborty · Built with Quarto. Last updated on October 22, 2026."
 format:
   html:
     theme: [cosmo, styles.scss]

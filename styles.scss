@@ -19,8 +19,16 @@ h2, h3 { margin-top: 1.4rem !important; }
 .news-more { font-size: .95em; font-style: italic; }
 .about-entity { padding-top: 0 !important; }
 main .pub-note p { font-size: 1rem; font-style: italic; color: #6c757d; margin: -.6rem 0 .5rem; text-align: left; }
+.quarto-about-trestles .about-links { flex-wrap: wrap; justify-content: center; }
 .quarto-about-trestles .about-links::after {
-  content: "Office\A HO313D, Hollings Cancer Center,\A Department of Public Health Sciences,\A Medical University of South Carolina,\A 135 Canon Street, Charleston, SC, 29425";
+  content: "Office";
+  flex-basis: 100%; width: 100%;
+  display: block; text-align: center;
+  font-size: .9rem; font-weight: 700; color: #6c757d;
+  margin-top: .8rem; margin-bottom: .1rem;
+}
+.quarto-about-trestles .about-entity::after {
+  content: "HO313D, Hollings Cancer Center,\A Department of Public Health Sciences,\A Medical University of South Carolina,\A 135 Canon Street, Charleston, SC 29425";
   display: block; white-space: pre-line; text-align: center;
-  font-size: .9rem; line-height: 1.4; color: #6c757d; margin-top: .8rem;
+  font-size: .9rem; line-height: 1.4; color: #6c757d;
 }
