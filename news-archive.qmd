@@ -6,10 +6,9 @@ title: "Archived News"
 
 ::: {.news}
 ### 2025
-- **Jul 2025** — Started as a postdoctoral scholar at MUSC with Dr. Souvik Seal.
-- **2025** — Paper accepted at ICML 2025.
+- **Jul 2025** -- I started as a postdoctoral scholar at MUSC with Dr. Souvik Seal.
 
 ### 2024
-- **Aug 2024** — Joined MD Anderson Cancer Center as a postdoctoral scholar.
-- **Jun 2024** — Completed my Ph.D. in Statistics at Texas A&M University.
+- **Aug 2024** -- I Joined MD Anderson Cancer Center as a postdoctoral scholar.
+- **Jun 2024** -- I Completed his Ph.D. in Statistics at Texas A&M University.
 :::

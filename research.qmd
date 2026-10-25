@@ -3,10 +3,10 @@ title: "Research"
 ---
 
 ::: {.proj}
-#### Biomarker discovery in omics
+#### Biomarker discovery in single cell and spatial omics
 Kernel machine regression frameworks (CBKMR, RKMR) and trajectory-aware marker selection (FusedFCR).
 
-#### Multi-sample spatial omics
+#### Multi-sample spatial omics analysis
 Replicate-aware dimension reduction across tissue slices (MSGPCA).
 
 #### Scalable spatial statistics

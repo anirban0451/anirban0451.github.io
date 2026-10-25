@@ -18,19 +18,23 @@ about:
       href: https://www.linkedin.com/in/anirban-chakraborty-0451/
 ---
 
-I am a postdoctoral scholar in the Department of Public Health Sciences at the Medical University of South Carolina, working with [Dr. Souvik Seal](https://sealx017.github.io/). I develop statistical methods for single-cell and spatial omics, with a focus on biomarker discovery and replicate-aware multi-sample analysis, building on a background in scalable Bayesian methods for spatial data.
+I am a postdoctoral scholar in the Department of Public Health Sciences at the Medical University of South Carolina, working with [Dr. Souvik Seal](https://sealx017.github.io/). My current research is focused on developing statistically accurate methods for biomarker identification and dimension reduction in single-cell and spatial omics, with a focus on multi-sample analysis.
 
 I received my Ph.D. in Statistics from Texas A&M University (2024), advised by [Dr. Matthias Katzfuss](https://sites.google.com/view/katzfuss/home).
 
 ### Research interests
-- Biomarker discovery in single-cell and spatial omics
-- Multi-sample spatial omics and spatially aware dimension reduction
-- Scalable Gaussian processes and Bayesian computation
+- Biomarker discovery in single-cell and spatial omics.
+- Multi-sample spatial omics and spatially aware dimension reduction.
+- Scalable Gaussian processes and Bayesian computation.
+- Bayesian spatial nonparametric estimation.
 
 ### News
 ::: {.news}
-- **2026** — CBKMR resubmitted to *Annals of Applied Statistics*.
-- **2026** — FusedFCR preprint posted on bioRxiv.
+- **October 2026** -- CBKMR resubmitted to *Annals of Applied Statistics*.
+- **August 2026** -- FusedFCR submitted to *Genome Research*.
+- **July 2026** -- Paper on Probabilistically routed Bayesian Additive Spanning Trees  (PR-BAST) accepted at [*ICML*](https://proceedings.mlr.press/v306/chakraborty26a.html), *2026*.
+- **May 2026** -- I was awarded [*STATGEN*](https://statgen26.emory.edu/) travel award for presenting CBKMR.
+- **May 2026** -- Paper on Scalable Tobit GP regression accepted at [*ICASSP*](https://ieeexplore.ieee.org/abstract/document/11460617), *2026*.
 :::
 
 [For older announcements, please see [here](news-archive.qmd).]{.news-more}
