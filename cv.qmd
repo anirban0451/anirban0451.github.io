@@ -1,8 +1,8 @@
 ---
 title: "CV"
 ---
-[Download PDF](files/CVupdatedOctober2026.pdf){.btn .btn-primary}
+[Download PDF](files/CVrecent.pdf){.btn .btn-primary}
 
 ```{=html}
-<embed src="files/CVupdatedOctober2026.pdf" type="application/pdf" width="100%" height="900px"/>
+<embed src="files/CVrecent.pdf" type="application/pdf" width="100%" height="900px"/>
 ```
