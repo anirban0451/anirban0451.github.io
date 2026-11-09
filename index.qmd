@@ -23,10 +23,18 @@ I am a postdoctoral scholar in the Department of Public Health Sciences at the M
 I received my Ph.D. in Statistics from Texas A&M University (2024), advised by [Dr. Matthias Katzfuss](https://sites.google.com/view/katzfuss/home).
 
 ### Research interests
-- Biomarker discovery in single-cell and spatial omics.
-- Multi-sample spatial omics and spatially aware dimension reduction.
-- Scalable Gaussian processes and Bayesian computation.
-- Bayesian spatial nonparametric estimation.
+- Gaussian and non-Gaussian process
+- Bayesian spatial transport maps
+- Scalable computations
+- Biomarker discovery in single-cell and spatial omics
+- Multi-sample spatial omics analysis
+- Spatially aware dimension reduction
+
+### Education
+
+- **Ph.D. in Statistics**, Texas A&M University, 2024
+- **Master of Statistics (M.Stat.)**, Indian Statistical Institute, 2018
+- **B.Sc. in Statistics**, University of Calcutta, 2016
 
 ### News
 ::: {.news}
